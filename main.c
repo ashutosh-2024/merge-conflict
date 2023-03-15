@@ -1,15 +1,9 @@
-pseudo code
-{
-Initial Function()
-{
-  //Sample Code
+#include <stdio.h>
+
+int security() {
+  return 1;
 }
 
-Initial Security()
-{
- //Sample Code
-}
-
-
-
+int main() {  
+  return 0;
 }

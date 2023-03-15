@@ -1,14 +1,9 @@
-pseudo code
-{
-Initial Function()
-{
-  //Sample Code
+#include <stdio.h>
+
+int feature2() {
+  return 1;
 }
 
-feaature2()
-{
-  //Sample Code for Feature 2
-}
-
-
+int main() {  
+  return 0;
 }
